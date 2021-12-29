@@ -1,0 +1,793 @@
+{
+    "page_title": {
+        "fr": "Devenez la clé du nouvel Internet",
+        "ru": "Стань ключом к новому интернету",
+        "es": "Sea la clave de la siguiente evolucion de internet"
+    },
+    "page_description": {
+        "fr": "Uniris offre la Blockchain prouvée de confiance pour quiquonque, partout et avec tout, à travers une solution sans limite et respecteuse de l'environnement"
+    },
+    "menu_blockchain": {
+        "fr": "Blockchain", 
+        "ru": "Блокчейн"
+    },
+    "menu_biometrics": {
+        "fr": "Biométrie",
+        "ru": "Биометрия",
+        "es": "Biométrica"
+    },
+    "menu_token": {
+        "fr": "Cryptomonnaie",
+        "ru": "Криптовалюта",
+        "es": "Criptomoneda"
+    },
+    "menu_community": {
+        "fr": "Communauté",
+        "ru": "Сообщество",
+        "es": "Comunidad"
+    },
+    "menu_roadmap": {
+        "fr": "Calendrier",
+        "ru": "Календарь",
+        "es": "Calendario"
+    },
+    "menu_more": {
+        "fr": "Plus",
+        "ru": "Узнать больше",
+        "es": "Mas"
+    },
+    "menu_team": {
+        "fr": "équipe",
+        "ru": "Команда",
+        "es": "Equipo"
+    },
+    "menu_media": {
+        "fr": "Média",
+        "ru": "Медиа",
+        "es": "Noticias"
+    },
+    "menu_contact": {
+        "fr": "Contact",
+        "ru": "Контакты"
+    },
+    "menu_faq": {
+        "fr": "FAQ",
+        "ru": "FAQ",
+        "es": "FAQ"
+    },
+    "menu_join_telegram": {
+        "fr": "Rejoignez Telegram",
+        "ru": "Подписывайтесь на наш Телеграм",
+        "es": "Unirse a nuestro telegram"
+    },
+    "main_title": {
+        "fr": "Devenez la clé du nouvel Internet",
+        "ru": "Стань ключом к новому интернету",
+        "es": "Sea la clave de la siguiente evolucion de internet"
+    },
+    "main_no_password": {
+        "fr": "Plus de mots de passe ou d'insécurité sur Internet",
+        "ru":"Больше никакого пароля и незащищенного интернета",
+        "es": "No mas contrasenas o inseguridad"
+    },
+    "everything_in_fingers": {
+        "fr": "Toute votre identité numérique encodée dans votre doigt",
+        "ru": "Все ваши данные защифрованы в вашем пальце",
+        "es": "Toda su identidad digital codificada en su dedo"
+    },
+    "main_one_technology": {
+        "fr": "Une technologie unique et des possibilités infinies",
+        "ru": "Уникальная технология и безграничные возможности",
+        "es": "Una technologia e infinitas posibilidades"
+    },
+    "main_jo_certified": {
+        "fr": "Jeux Olympiques Paris 2024",
+        "ru": "Олимпийские игры в Париже 2024",
+        "es": "Los juegos olímpicos de París 2024"
+    },
+    "main_use_cases": {
+        "fr": "places de marché, paiements et bien plus",
+        "ru": "торговые площадки,платежи и многое другое",
+        "es": "plazas de mercado, pagos y mucho más"
+    },
+    "main_most_secure": {
+        "fr": "Le système le plus sûr au monde",
+        "ru": "Самая надежная система в мире",
+        "es": "El sistema mas seguro en el mundo"
+    },
+    "main_protect_life": {
+        "fr": "pour protéger et simplifier la vie au quotidien !",
+        "ru":"для защиты и упрощения повседневной жизни!",
+        "es": "Para proteger and simplificar su vida diaria!"
+    },
+    "main-read-whitepaper": {
+        "fr": "Lisez notre livre blanc (Cryptocurrency)",
+        "ru": "Читайте нашу \"Белую бумагу\"",
+        "es": "Lea nuestro libro blanco (Criptomoneda)"
+    },
+    "main-whitepaper-pdf": {
+        "fr": "/UNIRIS-White-Paper-FR.pdf",
+        "es": "/UNIRIS-White-Paper-ES.pdf",
+        "ru": "/UNIRIS-White-Paper-RU.pdf"
+    },
+    "main-read-yellowpaper": {
+        "fr": "Lisez notre livre jaune (Technologie)",
+        "ru": "Читайте нашу \"Желтую бумагу\"",
+        "es": "Lea nuestro libro amarillo (Technologia)"
+    },
+    "main-yellowpaper-pdf": {
+        "fr": "/UNIRIS-Yellow-Paper-FR.pdf"
+    },
+    "main_buy_uco": {
+        "fr": "Achetez des Uniris Coins (UCO) aujourd'hui!",
+        "ru": "Купите Uniris Coin (UCO) уже сегодня",
+        "es": "¡Compren monedas de Uniris (UCO) hoy!"
+    },
+    "token_market_cap": {
+        "fr": "Capitalisation",
+        "ru": "Капитал",
+        "es": "Valor de mercado"
+    },
+    "token_eur_price": {
+        "fr": "Prix en dollars",
+        "ru": "цена в долларах",
+        "es": "Precio en dolares"
+    },
+    "token_total_supply": {
+        "fr": "UCO au total",
+        "ru": "Общее количество UCO",
+        "es": "Suministro total de UCO"
+    },
+    "token_available_supply": {
+        "fr": "UCO disponibles",
+        "ru": "Доступно UCO",
+        "es": "Disponibilidad de UCO"
+    },
+    "token_title": {
+        "fr": "le UCO - une cryptomonnaie programmée pour croitre",
+        "ru": "UCO - криптовалюта,запрограммированная на рост",
+        "es": "UCO - una criptomoneda programada para crecer"
+    },
+    "token_description": {
+        "fr": "La cryptomonnaie UCO (Uniris Coin) est conçue pour une utilisation à grande échelle et donc une adoption massive. Le modèle économique prévoit une destruction de monnaie automatisée permettant mécaniquement de favoriser les premiers investisseurs par une déflation programmée.",
+        "ru": "Криптовалюта UCO (Uniris Coin) разработана для широкомасштабного использования и,следовательно,для массового внедрения.Экономическая модель предусматриванет автоматическое разрушение валюты , что механически благоприятствует первым инвесторам засчет запрограммированной дефляции.",
+        "es": "La criptomoneda está diseñada para un uso a larga escala y por lo tanto para una adopción en masa. El modelo económico ofrece una destrucción del dinero automatizado que permite de una forma mecánica favorecer a los primeros inversores a través de una deflación programada."
+    },
+    "token_distribution_title": {
+        "fr": "Répartition des Tokens avantageuse pour les investisseurs et les contributeurs",
+        "ru": "Выгодное распределение Токенов для инвесторов и вкладчиков",
+        "es": "Distribucion de tokens que benefician inversores y contribuyentes"
+    },
+    "token_distribution_description": {
+        "fr": "À l'exception des jetons vendus, tous les autres jetons Uniris (UCO) seront bloqués par contrats intelligents (20-33%/an sur 3-5 ans). Les 23,6% jetons de «Réalisations» ne seront distribués aux développeurs/contributeurs qu'au moment où les fonctionnalités seront disponibles sur le réseau. Les 9% de jetons alloués aux Améliorations seront utilisés pour développer de nouveaux cas d'utilisation mais ne pourront être vendu que lorsque que la valeur des UCO sera supérieure à <strong>100x la valeur initiale</strong> (soit 0,70€/UCO).",
+        "ru": "За исключением проданных жетонов. все отсальные жетоны Uniris (UCO) будут заблокированы умными контрактами (20-23 % в год в течение 3-5 лет).23,6 % жетонов \"Достижения\" будут распределяться среди разработчиков только тогда,когда все функции будут доступны в сети.9 % жетонов, выделенные на \"Улучшения\" будут использованы для разработки новых способов применений. Жетоны могут быть проданы только в том случае,если значение UCO в 100 раз больше его первоначальной стоимости (т.е 0,7 €)",
+        "es": "Con excepción de los tokens vendidos, todos los otros tokens de Uniris (UCO) serán bloqueados por contratos inteligentes (20-33% por año en 3-5 años). El 23.6% tokens de “Realizaciones” serán solamente distribuidos a los desarrolladores/colaboradores cuando las funcionalidades estén disponibles en la red. El 9% de los tokens asignados para las “mejoras“ se utilizaran para el desarrollo de nuevos casos de uso pero solo se podrán vender cuando el valor de los UCOs sea superior a 100x su valor inicial, es decir, 0,70 E por UCO."
+    },
+    "token_availability_title": {
+        "fr": "Une disponibilité des UCO conditionnée par l'arrivée de nouveaux usages",
+        "ru": "Наличие UCO обусловленно появлением новых способов применения",
+        "es": "Disponibilidad de UCOs condicionada por la llegala de nueveos usos"
+    },
+    "token_availability_description": {
+        "fr": "Les premières années, quasiment uniquement les UCO mis en vente (Ventes Privée et Publique) seront disponibles sur les plates-formes d’échange - maximisant dans un premier temps la profitabilité pour les primo-investisseurs. Les UCO associés aux développements des usages \"Réalisations\" ne seront distribués qu’après leur déploiement effectif, garantissant ainsi une distribution progressive de la masse monétaire. Enfin, approximativement 10% des UCO utilisés pour payer les frais de transactions seront automatiquement détruits pour assurer un mécanisme de déflation programmé permettant théoriquement une croissance perpétuelle de la valeur du UCO.",
+        "ru": "В первые несколько лет,только UCO выставленные на продажу,будут доступны на торговых платформах для трейдинга, что позволит повысить прибыль первых инвестеров.UCO связанные с формированием \"Достижения\" будут распределяться только после их эффективного внедрения,таким образом, обеспечивая постепенное распределение денежной массы.Наконец, примерно 10% UCO, которые использовались для оплаты транзакционных издержек,будут автоматически уничтожены,чтобы обеспечить механизм запрограммированной дефляции,теоритически допускающий рост значения UCO.",
+        "es": "En los primeros años, casi solo los UCOs puestos a la venta (venta privada y pública) estarán disponibles en las plataformas de intercambio - inicialmente maximizando la rentabilidad de los primeros inversores. Los UCOs asociados con el desarrollo de los usos “Realizaciones” serán distribuidos solamente después de su despliegue efectivo, garantizando así una distribución efectiva oferta monetaria. Por último, aproximadamente 10% de los UCOs para pagar los gastos de transacción serán destruidos automáticamente para asegurar un mecanismo de deflación programado que permita teóricamente un crecimiento perpetuo del valor del UCO."
+    },
+    "blockchain_title": {
+        "fr": "Une nouvelle génération <br />de blockchain est née",
+        "ru": "Блокчейн нового поколения",
+        "es": "Una nueva generacion <br />de blockchain"
+    },
+    "blockchain_subtitle": {
+        "fr": "Durable, évolutive, sûre et inclusive",
+        "ru": "Устойчивый, масштабируемый, безопасный и инклюзивный",
+        "es": "Sostenible, expandible, segura e inclusiva"
+    },
+    "blockchain_earth_friendly_title": {
+        "fr": "Respectueuse de l'environnement",
+        "ru": "Экологически безопасный",
+        "es": "Respectuosa con el media ambiente"
+    },
+    "blockchain_earth_friendly_description": {
+        "fr": "3,6 milliards de fois moins de consommation d'énergie, en utilisant le consensus ARCH basé sur l'élection heuristique des mineurs et un système de réplication adaptatif. Chaque transaction Uniris ne nécessite que 0,42w d'énergie (0,1g de sucre)",
+        "ru": "В 3,6 миллиарда раз меньшее потребление энергии за счет использования консенсуса ARCH, основанного на эвристическом выборе горняков и адаптивной системе репликации. Каждая транзакция Uniris требует всего 0,42w энергии (0,1g сахара).",   
+        "es": "3.6 billones de veces menos consumo de energía, utilizando el consenso ARCH (Atomic Rotating commitment heuristic) basado en la elección heurística de los mineros y un sistema de replicación adaptativa. Cada transacción UNIRIS requiere sólo 0,42w de energía (0,1g de azúcar)."
+    },
+    "blockchain_smart_contracts_title": {
+        "fr": "Les plus évolués des Contrats Intelligents",
+        "ru": "Самые передовые умные контракты",
+        "es": "Los contratos inteligentes mas avanzados"
+    },
+    "blockchain_smart_contracts_description": {
+        "fr": "En plus de gérer la blockchain elle-même, les contrats intelligents Uniris assurent la gouvernance de la communauté sur la chaîne. Les smart-contracts Uniris sont autonomes (pas besoin de services externes pour les déclencher), évolutifs (on peut les mettre à jour), interprétés directement par les mineurs et faciles à programmer, aidant au développement d'applications fiables et évolutives.",
+        "ru": "Помимо управления самой цепочкой блоков, смарт-контракты Uniris обеспечивают управление сетью сообществ. Смарт-контракты UNIRIS являются нативно запускаемыми, обновляемыми, формальными и простыми в программировании, помогая в разработке надежных приложений.",
+        "es": "Además de gestionar la cadena de bloques, los smart-contracts de UNIRIS garantizan la gobernanza de la comunidad On-Chain. los smart-contracts de UNIRIS son autónomos (sin necesidad de servicios externos para activarlos), expandibles (se pueden actualizar), formales, interpretados directamente por los mineros y fáciles de programar, ayudando al desarrollo de aplicaciones fiables."
+    },
+    "blockchain_safety_title": {
+        "fr": "Sécurité Aéronautique",
+        "ru": "Аэронавтическая безопасность",
+        "es": "Seguridad aeroniautica"
+    },
+    "blockchain_safety_description": {
+        "fr": "Au-delà de la preuve de travail (PoW : 51%) ou de la Delegated Byzantine Fault Tolerance (dBFT : 66%), la blockchain Uniris fournit une preuve de travail collaborative et formelle permettant de garantir un niveau de fraude nul même avec 90% de mineurs malveillants, inaugurant une ère nouvelle et inclusive de sécurité décentralisée. La sécurité du réseau Uniris est basée sur les normes de la sécurité aéronautique soit un risque de fraude inférieur à 10<sup>-9</sup>",
+        "ru": "Помимо простого PoW (51%) или dBFT (66%), блокчейн Uniris обеспечивает совместную и официальную проверку работоспособности, позволяя справиться с 90% злоумышленников, открывая новую эру децентрализованной безопасности, основанной на стандартах авиационной безопасности (риск мошенничества < 10<sup>-9</sup>)",
+        "es": "Más allá de la prueba de trabajo (Pow: 51%) o de la Delegated Byzantine Fault Tolerance (dBFT: 66%), el blockchain Uniris proporciona una prueba de trabajo colaborativa y formal que permite garantizar un nivel de fraude nulo incluso con 90% de mineros malintencionados, introduciendo una nueva e inclusiva era de seguridad descentralizada. La seguridad de la red Uniris se basa en las normas de seguridad aeronáutica (o un riesgo de fraude inferior a < 10<sup>-9</sup>)."
+    },
+    "blockchain_fast_title": {
+        "fr": "Extrêmement rapide et sans limites connues",
+        "ru": "Супербыстрый и безграничный",
+        "es": "Extremadamente rapida y sin limites"
+    },
+    "blockchain_fast_description": {
+        "fr": "Sans impact sur la validation globale, la réplication polymorphe heuristique fournit une augmentation linéaire de la capacité (en stockage et en nombre de validations) permettant d'atteindre le million de validations de transactions par seconde!",
+        "ru": "Без ущерба для глобальной валидации эвристическая полиморфная репликация обеспечивает линейное увеличение емкости (в хранилище и количестве валидаций), позволяя достигать миллионов валидаций транзакций в секунду... Здесь нет магии, просто читайте Yellow Paper (желтая бумага).",
+        "es": "Sin impactar la validación global, la replicación polimórfica heurística proporciona un aumento lineal de la capacidad (en almacenamiento y en número de validaciones) permitiendo alcanzar el millón de validaciones de transacciones por segundo… no es magia, solo lea el libro amarillo."
+    },
+    "biometric_title": {
+        "fr": "Biométrie & Identité Autosouveraine",
+        "ru": "Биометрия и децентрализованная идентификация",
+        "es": "Biometria e Identitad descentralizada"
+    },
+    "biometric_subtitle": {
+        "fr": "100% décentralisé et inclusif",
+        "ru": "100% децентрализованный и доступный",
+        "es": "100% descentralizada e inclusiva"
+    },
+    "biometric_auth_title": {
+        "fr": "Authentifications inviolables",
+        "ru": "Подтверждение подлинности неприкосновенности",
+        "es": "Autenticacion inviolable"
+    },
+    "biometric_auth_description": {
+        "fr": "L'identification est réalisée à partir de clés purement \"individuelles\" à partir d'un scanner de l'intérieur des doigts (lumière infrarouge et échographie). Cette méthode brevetée rend impossible la divulgation, la reconstitution ou la perte des clés personnelles. Couplé à une vérification du niveau de stress (peur, sommeil ...) nul ne pourra alors s'identifier à votre place.",
+        "ru": "Собственные \"индивидуальные ключи\", основанные на внутреннем сканировании пальцев. Устройство также может проверять уровень стресса (страх, сон и т.д.) без риска раскрытия, потери или подделки данных.",
+        "es": "La identificación se realiza por medio de claves puramente “individuales” a partir de un escáner del interior de los dedos (luz infrarroja y ultrasonido). Este método patentado hace imposible la divulgación, reconstrucción o pérdida de las claves personales. Junto con una comprobación del nivel de estrés (miedo, sueño…) nadie podrá identificarse en su lugar."
+    },
+    "biometric_key_storage_title": {
+        "fr": "Aucun stockage de clés (Zero Knowledge Proof)",
+        "ru": "Отсутствие хранилища для ключей (Zero Knowledge Proof)",
+        "es": "Cero almacenamiento de llaves(Zero Knowledge Proof)"
+    },
+    "biometric_key_storage_description": {
+        "fr": "Les clés sont générées à la volée à travers un élément sécurisé puis effacées sans jamais être stockées. Les clés permettent de déchiffrer le porte-clés (wallet) décentralisé. Chaque dispositif disposant d'une clé d'identification unique (vérifié lors de la preuve de travail) il devient alors impossible à un attaquant de générer des transactions et ceci même en connaissant les clés.",
+        "ru": "Ключи генерируются в режиме реального времени через защищенный элемент и удаляются. Ключи позволяют расшифровать только децентрализованную цепочку ключей - идентификация каждого защищенного элемента является частью Proof of-Work и избавляет от необходимости кражи биометрических ключей.",
+        "es": "Las llaves se generan en tiempo real a través de un elemento seguro y luego se eliminan sin almacenarse nunca. Las llaves permiten descifrar el llavero descentralizado (Wallet). Cada dispositivo posee una identificación única (verificada en el momento de la prueba de trabajo) por lo tanto es imposible a un atacante de generar transacciones, incluso si tiene conocimiento de las claves."
+    },
+    "biometric_worldwide_title": {
+        "fr": "Conçu pour la Population Mondiale",
+        "ru":"Для мирового населения",
+        "es": "Para la poblacion mundial"
+    },
+    "biometric_worldwide_description": {
+        "fr": "La génération des clés s'effectue à partir des mesures biométriques, donc pas besoin d'avoir un appareil personnel pour s'authentifier, tout appareil autorisé fonctionnera comme le vôtre. Ouvrant ainsi une nouvelle ère d'authentification biométrique sans risque de divulgation.",
+        "ru": "Генерация ключей производится на основе биометрических измерений, поэтому нет необходимости иметь персональное устройство для аутентификации, любое авторизованное устройство будет работать как ваше собственное. Обеспечение новой эры биометрической аутентификации без риска раскрытия информации.",
+        "es": "La generación de llaves se realiza a partir de mediciones biométricas, por lo que no es necesario tener un dispositivo personal para autentificar, cualquier dispositivo autorizado funcionara como el suyo. Proveyendo así una nueva era de autenticación biométrica sin riesgo de divulgación."
+    },
+    "biometric_did_title": {
+        "fr": "Identité Décentralisée Autosouveraine",
+        "ru": "Децентрализованная идентификация",
+        "es": "Una identitad descentralizada"
+    },
+    "biometric_did_description": {
+        "fr": "La Blockchain Uniris permet de stocker, partager et gérer toutes les identités numériques au travers de contrats intelligents, permettant ainsi de gérer n'importe quelle organisation ou groupe d'individus à travers des délégations de pouvoir. Les smart-contracts permettent de gérer également la réputation et la certification.",
+        "ru": "Блокчейн Uniris позволяет хранить, совместно использовать и управлять всеми цифровыми идентификационными данными с помощью смарт-контрактов. Он также помогает в управлении организационными структурами, делегировании полномочий, репутации и сертификации и, наконец, делает личность человека самодостаточной.",
+        "es": "Blockchain Uniris permite almacenar, compartir y gestionar todas las identidades digitales a través de contratos inteligentes, permitiendo así gestionar cualquier organización o grupo de individuos por medio de delegaciones de poder. Los smart-contracts también posibilitan gestionar la reputación y la certificación."
+    },
+    "media_title": {
+        "fr": "Média",
+        "ru": "Медиа",
+        "es": "Noticias"
+    },
+    "media_subtitle": {
+        "fr": "Retrouver nos derniers articles",
+        "ru":"Ознакомьтесь с нашими последними статьями",
+        "es": "Siga nuestras últimas publicaciones"
+    },
+    "media_vivatech_description": {
+        "fr": "Participant dans un salon de la cybersecurité et les technologies de demain.",
+        "ru":"Участник выставки по кибербезопасности и технологиям будущего."
+    },
+    "media_olympics_title": {
+        "fr": "Certifié pour les Jeux Olympics de Paris 2024",
+        "ru":"Сертифицирован для участия в Олимпийских играх 2024 года в Париже"
+    },
+    "media_olympics_description": {
+        "fr": "Uniris a été récompensé par un label pour la gestion des accès sécurisé pour les Jeux Olympiques de Paris 2024.",
+        "ru":"Uniris был удостоен знака за безопасное управление доступом к Олимпийским играм в Париже в 2024 году."
+    },
+    "media_whitepaper_title": {
+        "fr": "Livre blanc d'Uniris",
+        "ru":"Белая бумага Uniris"   },
+    "media_whitepaper_description": {
+        "fr": "Livre blanc publié sur Medium",
+        "ru":"Белая бумага опубликована в Medium"
+    },
+    "media_more_news": {
+        "fr": "Voir plus d'articles",
+        "ru": "Смотреть больше статей",
+        "es": "Explore todas las noticias"
+    },
+    "media_last_videos": {
+        "fr": "Retrouvez nos dernières vidéos",
+        "ru":"Наши последние видео"
+    },
+    "media_video_technology_title": {
+        "fr": "Uniris - Technologie",
+        "ru":"Uniris - Технология"
+    },
+    "media_video_technology_description": {
+        "fr": "Nous avons tous le même rêve : simplifier notre quotidien. Dans un monde de plus en plus connecté, nous ne savons plus vraiment ce qu'il est fait de nos données personnelles ou bancaires. Et si maintenant on vous disait que nous avons la solution ?",
+        "ru":"У всех нас одна и та же мечта: упростить нашу повседневную жизнь. В мире, который становится все более цифровым, мы больше не знаем, что делать с нашими личными или банковскими данными. Что, если мы скажем тебе сейчас, что у нас есть решение?"
+
+    },
+    "media_video_blockchain_title": {
+        "fr": "Uniris - Blockchain",
+        "ru":"Uniris - Блокчейн"
+    },
+    "media_video_blockchain_description": {
+        "fr": "Comment pouvons-nous permettre de mettre en danger les informations personnelles sur le web ? Uniris a développé un écosystème blockchain à partir de zéro et se concentre sur la sécurité. Le nouveau réseau de confiance est né : le TrustNet.",
+        "ru":"Как мы можем допустить, чтобы личная информация в Интернете оказалась под угрозой? Uniris разработал экосистему блокчейна \"с нуля\" и сосредоточился на безопасности. Родилась новая сеть доверия: TrustNet."    },
+    "media_video_biometry_title": {
+        "fr": "Uniris - Biométrie",
+        "ru":"Uniris - Биометрия"
+    },
+    "media_video_biometry_description": {
+        "fr": "Imaginez un avenir sans contraintes. Plus de mots de passe, plus besoin de cartes de crédit, ou de carte pour voter... Toute votre identité numérique dématérialisée dans votre doigt. Uniris est la seule technologie qui protège l'identité des êtres humains avec une capacité de stockage illimitée.",
+        "ru":"Представьте себе будущее без ограничений. Больше нет паролей, нет необходимости в кредитной карте или карте для голосования... Все ваши цифровые идентификационные данные дематериализованы в вашем пальце. Uniris - единственная технология, которая защищает идентичность человека с неограниченным объемом памяти."
+    },
+    "media_video_smartcontracts_title": {
+        "fr": "Uniris - Contract intelligents",
+        "ru":"Uniris - Умные контракты"
+    },
+    "media_video_smartcontracts_description": {
+        "fr": "Les contrats intelligents Uniris assurent la gouvernance de la communauté sur la chaîne. Ils sont autonomes, évolutifs et faciles à programmer. Plus besoin d'un intermédiaire de confiance traditionnel : confiance et transparence sont au coeur de la technologie !",
+        "ru":"Умные контракты Uniris обеспечивают управление общиной на канале. Они автономны, масштабируемы и легко программируются. Больше нет необходимости в традиционном доверенном посреднике: доверие и прозрачность лежат в основе технологии!"
+    },
+    "media_video_p2p_title": {
+        "fr": "Uniris - Réseau Pair à pair (P2P)",
+        "ru":"Uniris - Пиринговая сеть (P2P)"
+    },
+    "media_video_p2p_description": {
+        "fr": "Le réseau P2P d'Uniris est l'exemple idéal d'une distribution parfaite des pairs ou des mineurs à travers le monde. Quelques soient les événements extérieures, le réseau peer to peer Uniris est capable de survivre pendant des décennies, même des siècles.",
+        "ru": "Сеть P2P Uniris - идеальный пример идеального распределения пиров или майнеров по всему миру. Независимо от внешних событий, одноранговая сеть Uniris способна выживать десятилетиями, а то и столетиями."
+    },
+    "community_title": {
+        "fr": "Rejoignez notre communauté !",
+        "ru": "Присоединяйтесь к нашему сообществу !",
+        "es": "¡Unase a nuestra comunidad !"
+    },
+    "community_subtitle": {
+        "fr": "Devenez un Uniriser",
+        "ru": "Стать единомышленником",
+        "es": "Conviertase en un unriser"
+    },
+    "community_description": {
+        "fr": "Notre souhait est que chacun puisse contribuer à ce nouvel Internet de confiance. Nous avons veillé tout particulièrement à ce que le langage de programmation des contrats intelligents soit à la fois simple à comprendre et facile à modifier. Plus besoin de gérer comment un utilisateur pourra s'identifier à l'intérieur des cas d'utilisation, ni même de connaître le niveau de sécurité associé, tout est inclus nativement.<br />Dans les semaines à venir, nous lancerons une campagne de jetons \"Airdrop Bounty\" basée sur le développement de la \"Core Blockchain\", la communication aura lieu bientôt. Pour rejoindre notre communauté, veuillez manifester votre intérêt via les formulaires ci-dessous.",
+        "ru": "Мы хотим, чтобы каждый из вас внес свой вклад в новый механизм децентрализации. Мы уделили особое внимание тому, чтобы язык программирования умных контрактов был простым для понимания и легко модифицировался. Не нужно беспокоиться о том, как пользователь сможет идентифицировать себя в вариантах использования, или даже узнать уровень безопасности, связанный с этим, все включено изначально. В ближайшие недели мы начнем кампанию токена \"Airdrop Bounty\", основанную на развитии \"Core Blockchain\",информация появится в скором времени. Поэтому, пожалуйста, зарегистрируйтесь, чтобы принять в ней участие.",
+        "es": "Nuestro deseo es que todos puedan contribuir a este nuevo confiable Internet. Hemos prestado especial atención a que el lenguaje de programación de los contratos inteligentes sea sencillo de entender y fácil de modificar. Ya no es necesario gestionar como un usuario se identificará dentro de los casos de uso, ni siquiera conocer el nivel de seguridad asociado, todo se incluye de forma nativa. En las próximas semanas lanzaremos una campaña de tokens “Airdrop Bounty” basada en el desarrollo de la “Core Blockchain”, la comunicación tendrá lugar pronto. Por favor, registre su interés para formar parte de él."
+    },
+    "community_become_uniris": {
+        "fr": "Devenez un Uniriser",
+        "ru": "Стать единомышленником",
+        "es": "Conviertase en un unriser"
+    },
+    "community_coding_guide": {
+        "fr": "Guide de programmation",
+        "ru": "Руководство по программированию",
+        "es": "Guia de codificacion"
+    },
+    "roadmap_title": {
+        "fr": "Feuille de route",
+        "ru": "План развития",
+        "es": "Hoja de ruta"
+    },
+    "roadmap_subtitle": {
+        "fr": "Nos jalons, rapidement atteint",
+        "ru": "Наши ключевые задачи, которые выполняются быстро",
+        "es": "Nuestros logros, siendo alcanzados rápidamente"
+    },
+    "roadmap_technical_work_title": {
+        "fr": "Début des travaux techniques et juridiques",
+        "ru": "Начало технической и юридической работы",
+        "es": "nicio de trabajos técnicos y jurídicos"
+    },
+    "roadmap_technical_work_date": {
+        "fr": "Février 2017",
+        "ru": "Февраль 2017 ",
+        "es": "Febrero 2017"
+    },
+    "roadmap_alpha_chain_title": {
+        "fr": "Alpha Chain"
+    },
+    "roadmap_alpha_chain_date": {
+        "fr": "Septembre 2018",
+        "ru": "Сентябрь 2018",
+        "es": "Septiembre 2018"
+    },
+    "roadmap_yellowpaper1_title": {
+        "fr": "YellowPaper Saison1 (Réseau)",
+        "ru": "Желтая бумага Сезон 1 (Сеть)",
+        "es": "Libro amarillo temporada 1 (Red)"
+    },
+    "roadmap_yellowpaper1_date": {
+        "fr": "Juillet 2019",
+        "ru": "Июль 2019",
+        "es": "Julio 2019"
+    },
+    "roadmap_whitepaper_title": {
+        "fr": "WhitePaper + Token Generation Event (ERC20)",
+        "ru": "Белая бумага + генерирование жетонов (ERC20)",
+        "es": "Libro blanco"
+    },
+    "roadmap_whitepaper_date": {
+        "fr": "Décembre 2019",
+        "ru": "Декабрь 2019",
+        "es": "Deciembre 2019"
+    },
+    "roadmap_alpha_net_erc20_title": {
+        "fr": "Réseau Alpha et Cotation du jeton",
+        "ru": "Сеть Alpha и рейтинги жетонов",
+        "es": "Lista de la Red Alfa e Intercambio"
+    },
+    "roadmap_alpha_net_erc20_date": {
+        "fr": "H1 2020"
+    },
+    "roadmap_testnet_title": {
+        "fr": "Réseau de test et Chasses au bugs (Primes)",
+        "ru": "Тестовая сеть и поиски ошибок (Вознаграждения)",
+        "es": "TestNet y Bugs Bounty"
+    },
+    "roadmap_testnet_title_date": {
+        "fr": "Q4 2020"
+    },
+    "roadmap_mainnet_title": {
+        "fr": "Réseau principal",
+        "ru": "Основная сеть",
+        "es": "MainNet"
+    },
+    "roadmap_mainnet_date": {
+        "fr": "Q1 2021"
+    },
+    "roadmap_did_title": {
+        "fr": "Identité décentralisé sur Chain",
+        "ru": "Децентрализованная идентичность в Chain",
+        "es": "Cadena de identitad completa descentralizada"
+    },
+    "roadmap_did_date": {
+        "fr": "Q2 2021"
+    },
+    "roadmap_industry_biometric_title": {
+        "fr": "Industrialisation du dispositif biométrique",
+        "ru": "Производство биометрического устройства",
+        "es": "Industrialización del dispositivo biométrico"
+    },
+    "roadmap_industry_biometric_date": {
+        "fr": "Q4 2021"
+    },
+    "team_title": {
+        "fr": "Dream Team",
+        "ru": "Наша команда",
+        "es": "Tenemos un equipo magnifico"
+    },
+    "team_subtitle": {
+        "fr": "Une équipe expérimentée, internationnale et déterminée",
+        "ru": "Опытная, интернациональная и целеустремленная",
+        "es": "Cualificado, internacional y determinado"
+    },
+    "team_sebastien_name": {
+        "fr": "Sébastien",
+        "ru": "Себастьян"
+    },
+    "team_sebastien_title": {
+        "fr": "Directeur éxécutif",
+        "ru": "Генеральный директор",
+        "es": "Director ejecutivo"
+    },
+    "team_nilesh_name": {
+        "fr": "Nilesh",
+        "ru": "Нилеш"
+    },
+    "team_nilesh_title": {
+        "fr": "Chef des opérations",
+        "ru": "Главный исполнительный директор",
+        "es": "Director de operaciones"
+    },
+    "team_baptiste_name": {
+        "fr": "Baptiste",
+        "ru": "Батист"
+    },
+    "team_baptiste_title": {
+        "fr": "Conseil en partenariats",
+        "ru": "Руководитель по взаимодействию с клиентами",
+        "es": "Jefe de asociaciones"
+    },
+    "team_samiran_name": {
+        "fr": "Samiran",
+        "ru": "Самиран"
+    },
+    "team_samiran_title": {
+        "fr": "Ambassadeur de marque",
+        "ru": "Посол бренда",
+        "es": "Marca Ambassadeur"
+    },
+    "team_christophe_name": {
+        "fr": "Christophe",
+        "ru": "Кристоф"
+    },
+    "team_christophe_title": {
+        "fr": "Chef de la sécurité",
+        "ru": "Главный директор по вопросам безопасности",
+        "es": "Jefe de seguridad"
+    },
+    "team_samuel_name": {
+        "fr": "Samuel",
+        "ru": "Самюэль"
+    },
+    "team_samuel_title": {
+        "fr": "Architecte",
+        "ru": "Архитектор",
+        "es": "Arquitector en jefe"
+    },
+    "team_akshay_name": {
+        "fr": "Akshay",
+        "ru": "Акшей"
+    },
+    "team_akshay_title": {
+        "fr": "Chef de produit",
+        "ru": "Директор по продукту",
+        "es": "Director de producto"
+    },
+    "team_victor_name": {
+        "fr": "Victor",
+        "ru": "Виктор"
+    },
+    "team_victor_title": {
+        "fr": "Chef du développement des affaires",
+        "ru": "Директор по развитию бизнеса",
+        "es": "Jefe de BizDev & use-cases"
+    },
+    "team_virginie_name": {
+        "fr": "Virginie",
+        "ru": "Вирджини"
+    },
+    "team_virginie_title": {
+        "fr": "Directrice du marketing",
+        "ru": "Директор по маркетингу",
+        "es": "Directora de marketing"
+    },
+    "team_vishnupriya_name": {
+        "fr": "Vishnupriya",
+        "ru": "Вишнуприя"
+    },
+    "team_vishnupriya_title": {
+        "fr": "Marketing et Relation Publiques",
+        "ru": "Маркетинг и связи с общественностью",
+        "es": "Marketing y relaciones públicas"
+    },
+    "team_advisory_title": {
+        "fr": "Comité de conseil",
+        "ru": "Консультативный комитет",
+        "es": "Comite de asesoria"
+    },
+    "team_advisory_subtitle": {
+        "fr": "Liste des membres de notre conseil consultatif",
+        "es": "À continuación nuestra lista de comité de asesoría"
+    },
+    "team_advisory_bernadette_name": {
+        "fr": "Dr. Bernadette Charron-Bost",
+        "ru": "Доктор Бернадетт Шаррон-Бост",
+        "es": "Dra. Bernadette Charron-Bost"
+    },
+    "team_advisory_bernadette_subtitle": {
+        "fr": "CNRS Polytechnique",
+        "ru":"Политехнический национальный центр научных исследований"
+    },
+    "team_advisory_bernadette_description": {
+        "fr": "Chercheur senior au CNRS, dans le laboratoire d'informatique de l'École Polytechnique. Les recherches de Bernadette portent sur le calcul distribué (calculabilité et complexité), la modélisation formelle et la vérification d'algorithmes distribués, de systèmes multi-agents en réseau, d'algorithmes naturels et de systèmes d'influence.",
+        "ru":"Старший научный сотрудник CNRS в лаборатории информатики политехнической школы. Исследования Бернадетт сосредоточены на распределенных вычислениях (вычислимость и сложность), формальном моделировании и верификации распределенных алгоритмов, многоагентных сетевых системах, естественных алгоритмах и системах влияния.",
+        "es": "Investigadora senior del CNRS, en el laboratorio de informática de la École Polytechnique, la investigación de Bernadette se centra en la informática distribuida (computabilidad y complejidad), la modelización formal y la verificación de algoritmos distribuidos, sistemas en red de agentes múltiples, algoritmos naturales y sistemas de influencia "
+    },
+    "team_advisory_peter_name": {
+        "fr": "Peter Scanlon",
+        "ru": "Питер Скэнлон"
+    },
+    "team_advisory_peter_subtitle": {
+        "fr": "Leader des initiatives de marketing stratégique qui créent de la valeur commerciale.",
+        "ru": "Лидер стратегических маркетинговых инициатив, создающих бизнес-ценности.",
+        "es": "Líder de iniciativas estratégicas de marketing que crean valor empresarial"
+    },
+    "team_advisory_peter_description": {
+        "fr": "Leader éprouvé d'équipes ciblées qui présentent les nouvelles tecrichesse Succès avéré dans le développement de campagnes B2B et B2C pour Google et Mozilla aux États-Unis, et pour des startups au Royaume-Uni et aux Pays-Bas. Penseur à grande échelle capable de transformer des propositions en une communication claire qui crée de l'action et des affinités. 20 ans d'expérience dans la Silicon Valley à résoudre les défis numériques pour les entreprises de technologie, de consommation et de services professionnels. Pour plus d'informations - <a href='www.peterscanlon.info'>www.peterscanlon.info/<a> <a href='www.twitter.com/pbscanlon'>twitter.com/pbscanlon</a>.",
+        "ru": "Опытный лидер целевых групп, внедряющих новые технологии для потребителей и компаний. Демонстрировал успех в разработке B2B и B2C кампаний для Google и Mozilla в США, а также стартапов в Великобритании и Северной Ирландии. Видит полную картину, преобразовывает предложения в ясную коммуникацию, которая создает действие и связь. 20-летний опыт работы в Силиконовой долине в области решения цифровых задач в сфере технологий, потребительского сектора и сферы профессиональных услуг. Дополнительная информация - <a href='www.peterscanlon.info'>www.peterscanlon.info/<a> <a href='www.twitter.com/pbscanlon'>twitter.com/pbscanlon</a>.",
+        "es": "Líder comprobado de equipos enfocados que introducen nueva tecnología a los consumidores y empresas de maneras atractivas. Éxito demostrado en el desarrollo de campañas B2B y B2C para Google y Mozilla en los EE.UU y startups en el Reino Unido y NL. Pensador a lo grande con capacidad para transformar proposiciones en comunicación clara que crea acción y afinidad. 20 años de experiencia en Silicon Valley resolviendo desafíos digitales para la tecnología, empresas de servicios profesionales y de consumo. Para más información - <a href='www.peterscanlon.info'>www.peterscanlon.info/<a> <a href='www.twitter.com/pbscanlon'>twitter.com/pbscanlon</a>."
+    },
+    "team_advisory_gilles_name": {
+        "fr": "Gilles Gravier",
+        "ru": "Жиль Гравье"
+    },
+    "team_advisory_gilles_subtitle": {
+        "fr": "Crypto quantique, OpenSource et Blockchain Advisor",
+        "es": "Asesor de quantum crypto, OpenSource y blockchain"
+    },
+    "team_advisory_gilles_description": {
+        "fr": "Directeur de la pratique de conseil en matière de logiciels libres et membre du conseil interne de la chaîne de production de Wipro, Gilles fournit des services de conseil en stratégie et de conseil en matière de logiciels libres et de chaînes de production à l'échelle mondiale à la société Wipro les meilleurs clients. Avant cela, il était directeur de la gestion des produits pour les produits de sécurité des réseaux, de distribution de clés quantiques et de génération de nombres aléatoires quantiques chez ID Quantique, une société de premier plan dans le domaine du cryptage de réseau multiprotocole à haute performance, basé sur des technologies conventionnelles et quantiques, visant à fournir un cryptage à l'épreuve du temps pour les données sensibles.",
+        "ru": "Директор консалтинговой практики с открытым исходным кодом и член внутреннего совета по блочным цепям в компании Wipro, Жиль предоставляет консалтинговые услуги по стратегии с открытым исходным кодом и блочным цепям по всему миру, а также консультации ведущим клиентам Wipro. До этого он занимал должность директора по управлению продуктами для сетевой безопасности, распределению квантовых ключей и генерации квантовых случайных чисел в компании ID Quantique, ведущей компании в области высокопроизводительного многопротокольного сетевого шифрования, основанного на традиционных и квантовых технологиях и направленного на обеспечение надежного шифрования конфиденциальных во времени данных в соответствии с требованиями будущего.",
+        "es": "Director en el Open Source consulting Practice y miembro del consejo de la blockchain interna en Wipro, Gilles ofrece servicios globales de asesoramiento y consultoría estratégica de código abierto y blockchain a los principales clientes de Wipro. Antes de eso, fue Director de gestión de productos para The Network Security, Quantum Key Distribution y Quantum Random Number Generation products en ID Quantique, una empresa líder en encriptación de redes de protocolo múltiple de alto rendimiento, basada en tecnologías convencionales y cuánticas, con el objetivo de proporcionar cifrado a prueba de futuro para datos sensibles al tiempo."
+    },
+    "faq_title": {
+        "fr": "Questions fréquentes",
+        "ru": "Часто задаваемые вопросы",
+        "es": "Las preguntas mas frecuentes"
+    },
+    "faq_blockchain_title": {
+        "fr": "Qu'est qu'une blockchain?",
+        "ru": "Что такое Блокчейн?",
+        "es": "¿ Que es blockchain ?"
+    },
+    "faq_blockchain_content": {
+        "fr": "<p>La blockchain est un ensemble de blocs de données rassemblé dans un registre numérique, ne pouvant être falsifié. Les données sont gérées par un ensemble d'ordinateurs n'appartenant à aucune entité unique.</p><p>Chacun de ces blocs de données est sécurisé. Le registre est public, tout ce qui est construit sur la chaîne de blocs est de par sa nature même transparent et toutes les personnes impliquées sont responsables de leurs actions./<p><p>Les avantages de la blockchain sont d’éliminer tout intermédiaire inutile et d’obtenir une transparence totale des échanges de données ou de transaction financière avec un niveau de sécurité maximal.</p><p>La technologie Blockchain offre de nouveaux outils d'authentification et d'autorisation dans le monde numérique, ce qui élimine le besoin de nombreux administrateurs centralisés.</p><p>Elle permet ainsi de créer de nouvelles relations numériques. Confiance, transparence et gain de temps sont les avantages principaux de cette nouvelle technologie.</p>",
+        "ru": "<p>Блокчейн - это, в простейшем смысле этого слова, серия неизменяемых по времени записей данных, которые управляются кластером компьютеров, не принадлежащим ни одному субъекту.</p><p>Каждый из этих блоков данных (т.е. блок) защищен и связан друг с другом с помощью криптографических принципов (т.е. цепи).<:p><p>Сеть блоков не имеет центрального органа власти - это само определение децентрализованной системы.</p><p>Поскольку она представляет собой общий и неизменяемый реестр, информация в нем открыта для всех и каждого.</p><p>Следовательно, все, что построено на этой цепочке, по своей природе прозрачно, и все, кто вовлечен в нее, ответственны за свои действия.</p>",
+        "es": "<p>Una blockchain es, en el más simple de los términos, una serie de marcas de tiempo de registro inmutable de datos que se gestiona por un grupo de computadoras que no son propiedad de una sola entidad.</p><p>Cada uno de estos bloques de datos (ej. Block) están asegurados y unidos entre sí utilizando principios criptográficos (ej. Chain).</p><p>La red blockchain no tiene autoridad central - es la definición misma de un sistema democratizado.</p><p>Puesto que es un libro de contabilidad compartido e inmutable, la información en él está abierta a cualquier persona y a todo el mundo para ver.</p><p>Por lo tanto, todo lo que se construye en la blockchain es por su propia naturaleza transparente y todos los involucrados son responsables de sus acciones.</p>"
+    },
+    "faq_cryptocurrency_title": {
+        "fr": "Qu'est-ce que la crypto-monnaie ?",
+        "ru": "Что такое криптовалюта ?",
+        "es": "¿Qué es una criptomoneda?"
+    },
+    "faq_cryptocurrency_content": {
+        "fr": "<p>Une cryptomonnaie est un monnaie numérique conçu pour fonctionner comme un moyen d'échange fiable et sans frais de ten ue de compte. Le contrôle décentralisé de la crypto-monnaie fonctionne grâce à la technologie blockchain basé sur les registres distribués, tout comme les banques classiques mais de manière dématérialisé et infalsifiable. Il n'y a aucun intermédiaire entre vous et votre crypto-monnaie, vous n'êtes ainsi plus dépendant des banques ou de l'inflation/déflation des monnaies classique.</p>",
+        "ru": "<p>Криптовалюта - это цифровой актив, предназначенный для работы в качестве средства обмена, использующего сложную криптографию для обеспечения безопасности финансовых операций, контроля за созданием дополнительных подразделений и проверки передачи активов.</p>",
+        "es": "<p>Una criptomoneda (o moneda criptográfica) es un ventaja digital diseñada para funcionar como medio de intercambio que utiliza criptografía fuerte para asegurar las transacciones financieras, controlar la creación de unidades adicionales, y verificar la transferencia de activos.</p>"
+    },
+    "faq_blockchain_currency_link_title": {
+        "fr": "Quel est le lien entre blockchain et cryptocurrency ?",
+        "ru": "Какова связь между блокчейном и криптовалютой?",
+        "es": "¿ Cual es la relacion entre blockchain y cryptomoneda ?"
+    },
+    "faq_blockchain_currency_link_content": {
+        "fr": "<p>La blockchain est né suite à la crise des subprimes en 2008, pour palier aux aléas financier dues aux intermédiaires tel que les banques, Bitcoin est né. La gestion des actifs financiers n'est plus due aux personnes ou établissements financiers mais aux mathématiques. La Blockchain est donc la technologie qui permet l'existence de la crypto-monnaie (entre autres choses).</p><p>Une cryptomonnaie est un moyen d'échange, comme le dollar ou l'euro. La différence est que cette monnaie est numérique et utilise des techniques de cryptage pour contrôler la création des unités monétaires et vérifier le transfert des fonds.</p>",
+        "ru": "<p>Блокчейн - это технология, которая позволяет существовать криптовалюте (помимо всего прочего).</p><p>Криптовалюта - это средство обмена, например, доллар США, но она является цифровой и использует методы шифрования для контроля создания денежных единиц и проверки перевода средств.</p>",
+        "es": "<p>Blockchain es la tecnología que permite la existencia de criptomonedas (entre otras cosas).</p><p>Una criptomoneda es un medio de intercambio, como el dólar estadounidense, pero en digital y utilizando técnicas de cifrado para controlar la creación de unidades monetarias y para verificar la transferencia de fondos.</p>"
+    },
+    "faq_no_intermidiary_title": {
+        "fr": "Comment ca marche sans intermédiaire ?",
+        "ru": "Как это работает без посредника?",
+        "es": "¿Cómo funciona sin un intermediario?" 
+    },
+    "faq_no_intermidiary_content": {
+        "fr": "<p>Par la preuve mathématique.</p><p>Si l'expéditeur envoie des fichiers sur un réseau P2P (pair à pair) avec authentification cryptographique, la crypto-monnaie est envoyée et les fichiers sont reçus par le destinataire.</p><p>La blockchain connecte l'expéditeur et le destinataire sur un réseau pair à pair avec cryptage cryptographique. La blockchain étant un grand livre partagé elle apporte ainsi une confiance sans faille, transparence et immuabilité. Elle élimine ainsi le besoin d'un intermédiaire traditionnel de confiance.</p>",
+        "ru": "<p>По математическому доказательству.</p><p>Если отправитель отправляет файлы в сети P2P с криптографической аутентификацией, то отправляется криптозащита и файлы принимаются получателем.</p><p>Блокчейн соединяет отправителя и получателя в одноранговой сети с криптографическим шифрованием.Оно, будучи распределенным реестром,обеспечивающим доверие, прозрачность и неизменность, устраняет необходимость в традиционном посреднике.</p>",
+        "es": "<p>Por la prueba matemática.</p><p>Si el remitente envía archivos en una red P2P con autenticación criptográfica, se envía criptomoneda y los archivos son recibidos por el receptor.</p><p>Blockchain conecta emisor y receptor en una red de pares con cifrado criptográfico, siendo un libro de contabilidad compartido aporta confianza, transparencia e inmutabilidad, elimina la necesidad de un intermediario tradicional de confianza.</p>"
+    },
+    "faq_smart_contracts_title": {
+        "fr": "Que sont les smart contracts?",
+        "ru": "Что такое умные контракты ?",
+        "es": "¿Qué son contratos inteligentes o Smart Contracts?"
+    },
+    "faq_smart_contracts_content": {
+        "fr": "<p>Les smart contracts (ou contrat intelligent) sont des cas générés pour simplifier la vie quotidienne des utilisateurs.</p><p>Par exemple, un des cas d'usage permet une validation d'un vote sans avoir à se déplacer de son domicile.</p><p>Une multitude de cas sont développés dans le but de faciliter la vie quotidienne tel que : la santé, les objets connectés, l'enregistrements de l'integralité de vos mots de passe, dans la chaîne d'approvisionnement, etc.</p><p>La technologie Blockchain ouvre un nombre infini de possibilités et affecte positivement tous les domaines.</p>",
+        "ru": "<p>Это контракты, сочетающие в себе юридический договор с кодом для автоматизации конкретного срока действия договора между сторонами.</p><p>Их цель - упростить повседневную жизнь пользователей путем автоматизации поведения и обеспечить выполнение условий договора.</p><p>Например, при подтверждении голосования без необходимости перемещения, в умных устройствах, в здравоохранении, в цепочке поставок и т.д.</p><p>Технология блокчейн открывает бесконечное количество возможностей и положительно влияет на все сферы.</p>",
+        "es": "<p>Los contratos inteligentes combinaban el contrato legal con el código para automatizar la duración específica del acuerdo entre las partes.</p><p>Sus objetivos son simplificar la vida diaria de los usuarios mediante un comportamiento automatizado y garantizar la ejecución de los términos del acuerdo.</p><p>Por ejemplo, en la validación de un voto sin tener que viajar, en objetos conectados, en la atención sanitaria, en la cadena de suministro, etc.</p><p>La tecnología blockchain abre un número infinito de posibilidades y afecta positivamente a todas las áreas.</p>"
+    },
+    "faq_papers_title": {
+        "fr": "Qu'est ce que le Livre Jaune, le Livre Blanc ?",
+        "ru": "Что такое Желтая бумага и Белая бумага ?",
+        "es": "¿Qué son los libros amarillos y los libros blancos de Uniris?"
+    },
+    "faq_papers_content": {
+        "fr": "<p>Ces documents offrent une vue d'ensemble des différents aspects techniques, structurels, économiques et financiers d'Uniris Blockchain.</p><p>Le Livre Jaune est destiné à une compréhension approfondie des aspects techniques d'Uniris et est divisé en 5 saisons.</p><p>Le livre blanc est destiné à une compréhension approfondie de l'économie autour de la crypto-monnaie (token economics), finances, etc. d'Uniris.</p>",
+        "ru": "<p>Эти документы позволяют глубоко погрузиться в технические, структурные, экономические и финансовые аспекты блокчейн Uniris.</p><p>Желтая книга предназначена для глубокого понимания технических аспектов Uniris и разделена на 5 сезонов.</p><p>Белая книга предназначена для глубокого понимания Токеномики, Финансов и т.д.</p>",
+        "es": "<p>Estos documentos proporcionan una profunda inmersión en los aspectos técnicos, estructurales, económicos y financieros de la Blockchain de Uniris.</p><p>Los libros amarillos son utilizados para una profunda comprensión de los aspectos técnicos de Uniris y se divide en 5 estaciones.</p><p>Los libros blancos son utilizados para un profundo entendimiento de Tokenomics, Finanzas etc de Uniris.</p>"
+    },
+    "faq_arch_title": {
+        "fr": "Qu'est ce que le consensus ARCH ? Comment le consensus ARCH peut-il m'aider ?",
+        "ru": "Что такое консенсус АRCH? Как консенсус АRCH может мне помочь ?",
+        "es": "¿Qué es ARCH consensus? y ¿Cómo ARCH consensus puede ayudarme?"
+    },
+    "faq_arch_content": {
+        "fr": "<p>Le Consensus ARCH ou \"Atomic Rotating Commitment Heuristic (ARCH)\" est une nouvelle génération de Consensus qui délivre un consensus ouvert sans permission pour tous</p><ul><li>l'engagement atomique est la forme de consensus \"absolu\" qui implique des réponses 100% concordantes pour l'acceptation ou le refus de la validation des transactions.</li><li>Heuristics est l'ensemble des algorithmes, logiciels et paramètres qui permettent de gérer le réseau entier, de manière décentralisée et coordonnée les nœuds chargés de valider et stocker la chaîne des transactions.</li><li>Le réseau étant entièrement distribué en rotation (pas de rôle central ou privilégié), les nœuds élus pour chaque opération changent constamment de sorte qu'aucun nœud ne peut prédire quels nœuds seront élus jusqu'à ce que la transaction arrive.</li></ul>",
+        "ru": "<p>Консенсус АRCH или \"Эвристическое Атомное Вращающееся Обязательство (ARCH)\" - это новое поколение Консенсуса, который обеспечивает открытый и не допускающий никаких ограничений консенсус для всех.</p><ul><li>Атомное обязательство- это форма \"абсолютного\" консенсуса, который подразумевает 100%-ные согласованные ответы на принятие или отказ от валидации сделки.</li><li>Эвристика - это набор алгоритмов, программного обеспечения и параметров, которые управляют всей сетью, позволяя сети децентрализованно и согласованно выбирать узлы, отвечающие за проверку и хранение цепочек транзакций.</li><li>Вращая полностью распределенную сеть (без центральной или привилегированной роли), узлы, выбранные для каждой операции, постоянно меняются таким образом, что ни один узел не может предсказать, какие узлы будут выбраны до прихода транзакции.</li></ul>",
+        "es": "<p>ARCH consensus o “Atomic Rotating Commitment Heuristic (ARCH)” es una nueva generación de Consensus que ofrece un consenso sin permisos para todos.</p><ul><li>El compromiso Atómico es la forma de consenso “absoluto” que implica respuestas 100% concordantes para la aceptación o rechazo de la validación de la transacción</li><li>Heuristics es el conjunto de algoritmos, softwares y parámetros que gestionan toda la red, permitiéndole a la red elegir de manera descentralizada y coordinada los nodos encargados de validar y almacenar las cadenas de transacciones.</li><li>Al rotar la red estando completamente distribuida (sin función central o privilegiada), los nodos elegidos para cada operación están cambiando constantemente para que ningún nodo pueda predecir qué nodos serán elegidos hasta que llegue la transacción.</li></ul>"
+    },
+    "faq_uniris_safe_title": {
+        "fr": "Uniris est-il un projet sûr ?",
+        "ru": "Uniris - безопасный проект?",
+        "es": "¿Es Uniris un proyecto seguro?"
+    },
+    "faq_uniris_safe_content": {
+        "fr": "<p>Oui</p><p>Le projet est le plus sécurisé de tout l'écosystème blockchain.</p><p>Dans un monde où toute notre confiance numérique se limite aux grandes institutions comme les banques, Google ou Amazon, il est difficile de s'y retrouver.</p><p>Aujourd'hui, la technologie de la blockchain permet d'atteindre un niveau de sécurité plus élevé.</p><p>Dans ce cas, Uniris dispose du plus haut niveau de sécurité de tout l'écosystème Blockchain et vous permet de reprendre le contrôle de vos données et de votre identité numérique.</p><p>In this case UNIRIS has the highest level of security in the entire Blockchain ecosystem and gives you back control over your data and digital identity.</p><p>Pas besoin d'intermédiaires.</p><p><strong>Uniris est également officiellement labellisé partenaire par le Conseil National de l'Industrie, dont l'objectif est d'identifier les solutions susceptibles de contribuer à la sécurité des grands événements tels que les Jeux Olympiques Paris 2024.</strong></p>",
+        "ru": "<p>Да</p><p>Проект обладает высочайшей степенью безопасности во всей экосистеме блокчейн.</p><p>В мире, где все наше цифровое доверие ограничено крупными учреждениями, такими как банки, Google или Amazon, трудно найти способ обойти его.</p><p>Сегодня технология блокчейн позволяет достичь более высокого уровня безопасности.</p><p>В этом случае Uniris имеет наивысший уровень безопасности во всей экосистеме блокчейн и возвращает вам контроль над вашими данными и цифровой идентичностью.</p><p>Нет необходимости в посредниках.</p><p><strong>Кроме того, Uniris официально сертифицирована Национальным советом промышленности Франции, целью которого является поиск решений, способных внести вклад в обеспечение безопасности таких крупных мероприятий, как Олимпийские игры в Париже 2024 года.</strong>",
+        "es": "<p>Si.</p><p>El proyecto cuenta con la mayor seguridad en todo el ecosistema de la blockchain.</p><p>En un mundo donde toda nuestra confianza digital se limita a grandes instituciones como la actividad bancaria, Google o Amazon, es difícil orientarse.</p><p>Hoy en día, la tecnología blockchain permite alcanzar un mayor nivel de seguridad.</p><p>En este caso UNIRIS tiene el más alto nivel de seguridad en todo el ecosistema Blockchain y le devuelve el control sobre sus datos e identidad digital.</p><p>No hay necesidad de intermediarios.</p><p><strong style=\"font-weight: 800;\">Uniris también está oficialmente certificada por el Consejo Nacional de Industria de Francia, que tiene como objetivo identificar soluciones que puedan contribuir a la seguridad de grandes eventos como los Juegos Olímpicos de París 2024.</strong></p>"
+    },
+    "faq_how_buy_title": {
+        "fr": "Comment puis-je acheter, stocker, vendre, échanger des jetons Uniris ? Et où ?",
+        "ru": "Как я могу купить, хранить, продавать, обменивать токены  Uniris? И где?",
+        "es": "¿Cómo puedo comprar, almacenar, vender, intercambiar Uniris Coin? ¿Y dónde?"
+    },
+    "faq_how_buy_content_purchase": {
+        "fr": "Achat: Nous sommes actuellement listé sur: ",
+        "ru": "Покупка: В настоящее время мы числимся в:",
+        "es": "Compra: Actualmente estamos listados en: "
+    },
+    "faq_how_buy_content_storage": {
+        "fr": "Stockage: Vous pouvez stocker l'ensemble de vos UCO sur un porte-monnaie électronique (Paperwallet/ Hardware / Software/Exchange)",
+        "ru": "Хранение: Вы можете хранить токены Uniris в цифровом кошельке (Paperwallet/ Hardware / Software/Exchange).",
+        "es": "Tienda: Puede guardarlo en una cartera digital o Wallet (Paper Wallet/hardware/software/exchange)"
+    },
+    "faq_how_buy_content_selling": {
+        "fr": "Vente: Lorsque les services seront mis à disposition des utilisateurs, vous pourrez dépenser vos UCOs pour bénéficier des avantages.",
+        "ru": "Продажа: Когда услуги будут доступны для пользователей, вы сможете потратить ваши UCO, чтобы воспользоваться преимуществами.",
+        "es": "Vender: Cuando los servicios se pondrán a disposición de los usuarios, usted podrá gastar sus UCOs para beneficiarse de estos servicios."
+    },
+    "contact_join_telegram_title": {
+        "fr": "Rejoignez-nous sur Telegram",
+        "ru": "Подписывайтесь на наш Telegram",
+        "es": "Unase a nuestro grupo telegram ahora"
+    },
+    "contact_join_telegram_link": {
+        "fr": "https://t.me/ArchEthic_FR",
+        "ru": "https://t.me/archethic_ru"
+    },
+    "contact_join_telegram_subtitle": {
+        "fr": "Groupe Officiel Telegram",
+        "ru": "Официальная группа в Telegram",
+        "es": "El grupo cripto oficial de telegram"
+    },
+    "contact_form_title": {
+        "fr": "Contactez-nous",
+        "ru": "Свяжитесь с нами",
+        "es": "Contacta Uniris"
+    },
+    "contact_form_subtitle": {
+        "fr": "Aucun spam ni aucune revente de données !",
+        "ru": "Никакого спама и перепродажи данных !",
+        "es": "¡Cero spam ynada de reventa de datos!"
+    },
+    "contact_form_name_placeholder": {
+        "fr": "Nom",
+        "ru": "Имя",
+        "es": "Nombre"
+    },
+    "contact_form_email_placeholder": {
+        "fr": "Email"
+    },
+    "contact_form_subject_placeholder": {
+        "fr": "Sujet",
+        "ru": "Тема",
+        "es": "Objecto"
+    },
+    "contact_form_message_placeholder": {
+        "fr": "Message",
+        "ru": "Сообщение",
+        "es": "Mensaje"
+    },
+    "contact_form_submit": {
+        "fr": "Envoyer",
+        "ru": "Отправить",
+        "es": "Enviar"
+    },
+    "contact_subscribe_form_link": {
+        "fr": "https://uniris.us15.list-manage.com/subscribe/post?u=cbd7996d38c2d5019f4b46c85&amp;id=88bc397ada"
+    },
+    "contact_subscribe_title": {
+        "fr": "S'abonner",
+        "ru": "Подпишитесь на нашу рассылку",
+        "es": "Subscribase"
+    },
+    "contact_subscribe_subtitle": {
+        "fr": "Ne manquez pas nos dernières informations et mises à jour",
+        "ru": "Не пропустите наши последние новости и обновления",
+        "es": "Nunca se pierda de ninguna noticia o actualización"
+    },
+    "contact_subscribe_input_placeholder": {
+        "fr": "Entrez votre adresse électronique",
+        "ru": "Введите адрес электронной почты",
+        "es": "Introduzca su email"
+    },
+    "contact_subscribe_button": {
+        "fr": "S'abonner",
+        "ru": "Подписаться",
+        "es": "Subscription"
+    }
+
+}

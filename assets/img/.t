@@ -1,0 +1,15 @@
+bitcointalk.png
+discord.png
+facebook.png
+jo.png
+linkedin.png
+medium.png
+og.png
+paris.png
+reddit.png
+steemit.png
+telegram.png
+twitter.png
+uniris-center.png
+uniris.png
+youtube.png
