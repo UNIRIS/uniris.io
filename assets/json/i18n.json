@@ -191,7 +191,7 @@
         "es": "Respectuosa con el media ambiente"
     },
     "blockchain_earth_friendly_description": {
-        "fr": "3,6 milliards de fois moins de consommation d'énergie, en utilisant le consensus ARCH basé sur l'élection heuristique des mineurs et un système de réplication adaptatif. Chaque transaction Uniris ne nécessite que 0,42w d'énergie (0,1g de sucre)",
+        "fr": "3,6 milliards de fois moins de consommation d'énergie, en utilisant le consensus ARCH basé sur l'élection heuristique des mineurs et un système de réplication adaptatif. Chaque transaction Archethic ne nécessite que 0,42w d'énergie (0,1g de sucre)",
         "ru": "В 3,6 миллиарда раз меньшее потребление энергии за счет использования консенсуса ARCH, основанного на эвристическом выборе горняков и адаптивной системе репликации. Каждая транзакция Uniris требует всего 0,42w энергии (0,1g сахара).",
         "es": "3.6 billones de veces menos consumo de energía, utilizando el consenso ARCH (Atomic Rotating commitment heuristic) basado en la elección heurística de los mineros y un sistema de replicación adaptativa. Cada transacción UNIRIS requiere sólo 0,42w de energía (0,1g de azúcar)."
     },
@@ -201,7 +201,7 @@
         "es": "Los contratos inteligentes mas avanzados"
     },
     "blockchain_smart_contracts_description": {
-        "fr": "En plus de gérer la blockchain elle-même, les contrats intelligents Uniris assurent la gouvernance de la communauté sur la chaîne. Les smart-contracts Uniris sont autonomes (pas besoin de services externes pour les déclencher), évolutifs (on peut les mettre à jour), interprétés directement par les mineurs et faciles à programmer, aidant au développement d'applications fiables et évolutives.",
+        "fr": "En plus de gérer la blockchain elle-même, les contrats intelligents Archethic assurent la gouvernance de la communauté sur la chaîne. Les smart-contracts Uniris sont autonomes (pas besoin de services externes pour les déclencher), évolutifs (on peut les mettre à jour), interprétés directement par les mineurs et faciles à programmer, aidant au développement d'applications fiables et évolutives.",
         "ru": "Помимо управления самой цепочкой блоков, смарт-контракты Uniris обеспечивают управление сетью сообществ. Смарт-контракты UNIRIS являются нативно запускаемыми, обновляемыми, формальными и простыми в программировании, помогая в разработке надежных приложений.",
         "es": "Además de gestionar la cadena de bloques, los smart-contracts de UNIRIS garantizan la gobernanza de la comunidad On-Chain. los smart-contracts de UNIRIS son autónomos (sin necesidad de servicios externos para activarlos), expandibles (se pueden actualizar), formales, interpretados directamente por los mineros y fáciles de programar, ayudando al desarrollo de aplicaciones fiables."
     },
@@ -211,7 +211,7 @@
         "es": "Seguridad aeroniautica"
     },
     "blockchain_safety_description": {
-        "fr": "Au-delà de la preuve de travail (PoW : 51%) ou de la Delegated Byzantine Fault Tolerance (dBFT : 66%), la blockchain Uniris fournit une preuve de travail collaborative et formelle permettant de garantir un niveau de fraude nul même avec 90% de mineurs malveillants, inaugurant une ère nouvelle et inclusive de sécurité décentralisée. La sécurité du réseau Uniris est basée sur les normes de la sécurité aéronautique soit un risque de fraude inférieur à 10<sup>-9</sup>",
+        "fr": "Au-delà de la preuve de travail (PoW : 51%) ou de la Delegated Byzantine Fault Tolerance (dBFT : 66%), la blockchain Archethic fournit une preuve de travail collaborative et formelle permettant de garantir un niveau de fraude nul même avec 90% de mineurs malveillants, inaugurant une ère nouvelle et inclusive de sécurité décentralisée. La sécurité du réseau Uniris est basée sur les normes de la sécurité aéronautique soit un risque de fraude inférieur à 10<sup>-9</sup>",
         "ru": "Помимо простого PoW (51%) или dBFT (66%), блокчейн Uniris обеспечивает совместную и официальную проверку работоспособности, позволяя справиться с 90% злоумышленников, открывая новую эру децентрализованной безопасности, основанной на стандартах авиационной безопасности (риск мошенничества < 10<sup>-9</sup>)",
         "es": "Más allá de la prueba de trabajo (Pow: 51%) o de la Delegated Byzantine Fault Tolerance (dBFT: 66%), el blockchain Uniris proporciona una prueba de trabajo colaborativa y formal que permite garantizar un nivel de fraude nulo incluso con 90% de mineros malintencionados, introduciendo una nueva e inclusiva era de seguridad descentralizada. La seguridad de la red Uniris se basa en las normas de seguridad aeronáutica (o un riesgo de fraude inferior a < 10<sup>-9</sup>)."
     },
@@ -271,7 +271,7 @@
         "es": "Una identitad descentralizada"
     },
     "biometric_did_description": {
-        "fr": "La Blockchain Uniris permet de stocker, partager et gérer toutes les identités numériques au travers de contrats intelligents, permettant ainsi de gérer n'importe quelle organisation ou groupe d'individus à travers des délégations de pouvoir. Les smart-contracts permettent de gérer également la réputation et la certification.",
+        "fr": "La Blockchain Archethic permet de stocker, partager et gérer toutes les identités numériques au travers de contrats intelligents, permettant ainsi de gérer n'importe quelle organisation ou groupe d'individus à travers des délégations de pouvoir. Les smart-contracts permettent de gérer également la réputation et la certification.",
         "ru": "Блокчейн Uniris позволяет хранить, совместно использовать и управлять всеми цифровыми идентификационными данными с помощью смарт-контрактов. Он также помогает в управлении организационными структурами, делегировании полномочий, репутации и сертификации и, наконец, делает личность человека самодостаточной.",
         "es": "Blockchain Uniris permite almacenar, compartir y gestionar todas las identidades digitales a través de contratos inteligentes, permitiendo así gestionar cualquier organización o grupo de individuos por medio de delegaciones de poder. Los smart-contracts también posibilitan gestionar la reputación y la certificación."
     },
