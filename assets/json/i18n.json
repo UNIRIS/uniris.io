@@ -8,7 +8,7 @@
         "fr": "Uniris offre la Blockchain prouvée de confiance pour quiquonque, partout et avec tout, à travers une solution sans limite et respecteuse de l'environnement"
     },
     "menu_blockchain": {
-        "fr": "Blockchain", 
+        "fr": "Blockchain",
         "ru": "Блокчейн"
     },
     "menu_biometrics": {
@@ -67,7 +67,7 @@
     },
     "main_no_password": {
         "fr": "Plus de mots de passe ou d'insécurité sur Internet",
-        "ru":"Больше никакого пароля и незащищенного интернета",
+        "ru": "Больше никакого пароля и незащищенного интернета",
         "es": "No mas contrasenas o inseguridad"
     },
     "everything_in_fingers": {
@@ -97,31 +97,33 @@
     },
     "main_protect_life": {
         "fr": "pour protéger et simplifier la vie au quotidien !",
-        "ru":"для защиты и упрощения повседневной жизни!",
+        "ru": "для защиты и упрощения повседневной жизни!",
         "es": "Para proteger and simplificar su vida diaria!"
     },
-    "main-read-whitepaper": {
-        "fr": "Lisez notre livre blanc (Cryptocurrency)",
-        "ru": "Читайте нашу \"Белую бумагу\"",
-        "es": "Lea nuestro libro blanco (Criptomoneda)"
+    "main_solutions_archethic": {
+        "fr": "Uniris vous accompagne pour développer vos solutions sur la Blockchain Public Archethic",
+        "ru": "",
+        "es": ""
     },
-    "main-whitepaper-pdf": {
-        "fr": "/UNIRIS-White-Paper-FR.pdf",
-        "es": "/UNIRIS-White-Paper-ES.pdf",
-        "ru": "/UNIRIS-White-Paper-RU.pdf"
+    "main_link_archethic": {
+        "fr": "Cliquez ici pour retrouver toutes les informations sur<br><img src='/assets/images/Archethic-Public-Blockchain-White.svg' style='height:40px;' alt='' />",
+        "ru": "",
+        "es": ""
+    },
+    "main-read-whitepaper": {
+        "fr": "Lisez le livre blanc d’Archethic",
+        "ru": "",
+        "es": ""
     },
     "main-read-yellowpaper": {
-        "fr": "Lisez notre livre jaune (Technologie)",
-        "ru": "Читайте нашу \"Желтую бумагу\"",
-        "es": "Lea nuestro libro amarillo (Technologia)"
-    },
-    "main-yellowpaper-pdf": {
-        "fr": "/UNIRIS-Yellow-Paper-FR.pdf"
+        "fr": "Lisez le livre jaune de la blockchain d’Archethic (Technologie)",
+        "ru": "",
+        "es": ""
     },
     "main_buy_uco": {
-        "fr": "Achetez des Uniris Coins (UCO) aujourd'hui!",
-        "ru": "Купите Uniris Coin (UCO) уже сегодня",
-        "es": "¡Compren monedas de Uniris (UCO) hoy!"
+        "fr": "Achetez des Archethic Coins (UCO) aujourd'hui!",
+        "ru": "Купите Archethic Coin (UCO) уже сегодня",
+        "es": "¡Compren monedas de Archethic (UCO) hoy!"
     },
     "token_market_cap": {
         "fr": "Capitalisation",
@@ -149,8 +151,8 @@
         "es": "UCO - una criptomoneda programada para crecer"
     },
     "token_description": {
-        "fr": "La cryptomonnaie UCO (Uniris Coin) est conçue pour une utilisation à grande échelle et donc une adoption massive. Le modèle économique prévoit une destruction de monnaie automatisée permettant mécaniquement de favoriser les premiers investisseurs par une déflation programmée.",
-        "ru": "Криптовалюта UCO (Uniris Coin) разработана для широкомасштабного использования и,следовательно,для массового внедрения.Экономическая модель предусматриванет автоматическое разрушение валюты , что механически благоприятствует первым инвесторам засчет запрограммированной дефляции.",
+        "fr": "La cryptomonnaie UCO (Archethic Coin) est conçue pour une utilisation à grande échelle et donc une adoption massive. Le modèle économique prévoit une destruction de monnaie automatisée permettant mécaniquement de favoriser les premiers investisseurs par une déflation programmée.<br><br>Pour plus de détails, veuillez visiter le site <a href='https://archethic.net' target='_blank'>Archethic Public Blockchain</a> ou prendre connaissance du document <a href='https://archethic.net/ARCHEthic_UCOnomics.pdf' target='_blank'>Tokenomics.</a>",
+        "ru": "Криптовалюта UCO (Archethic Coin) разработана для широкомасштабного использования и,следовательно,для массового внедрения.Экономическая модель предусматриванет автоматическое разрушение валюты , что механически благоприятствует первым инвесторам засчет запрограммированной дефляции.",
         "es": "La criptomoneda está diseñada para un uso a larga escala y por lo tanto para una adopción en masa. El modelo económico ofrece una destrucción del dinero automatizado que permite de una forma mecánica favorecer a los primeros inversores a través de una deflación programada."
     },
     "token_distribution_title": {
@@ -159,9 +161,9 @@
         "es": "Distribucion de tokens que benefician inversores y contribuyentes"
     },
     "token_distribution_description": {
-        "fr": "À l'exception des jetons vendus, tous les autres jetons Uniris (UCO) seront bloqués par contrats intelligents (20-33%/an sur 3-5 ans). Les 23,6% jetons de «Réalisations» ne seront distribués aux développeurs/contributeurs qu'au moment où les fonctionnalités seront disponibles sur le réseau. Les 9% de jetons alloués aux Améliorations seront utilisés pour développer de nouveaux cas d'utilisation mais ne pourront être vendu que lorsque que la valeur des UCO sera supérieure à <strong>100x la valeur initiale</strong> (soit 0,70€/UCO).",
-        "ru": "За исключением проданных жетонов. все отсальные жетоны Uniris (UCO) будут заблокированы умными контрактами (20-23 % в год в течение 3-5 лет).23,6 % жетонов \"Достижения\" будут распределяться среди разработчиков только тогда,когда все функции будут доступны в сети.9 % жетонов, выделенные на \"Улучшения\" будут использованы для разработки новых способов применений. Жетоны могут быть проданы только в том случае,если значение UCO в 100 раз больше его первоначальной стоимости (т.е 0,7 €)",
-        "es": "Con excepción de los tokens vendidos, todos los otros tokens de Uniris (UCO) serán bloqueados por contratos inteligentes (20-33% por año en 3-5 años). El 23.6% tokens de “Realizaciones” serán solamente distribuidos a los desarrolladores/colaboradores cuando las funcionalidades estén disponibles en la red. El 9% de los tokens asignados para las “mejoras“ se utilizaran para el desarrollo de nuevos casos de uso pero solo se podrán vender cuando el valor de los UCOs sea superior a 100x su valor inicial, es decir, 0,70 E por UCO."
+        "fr": "À l'exception des jetons vendus, tous les autres jetons Archethic (UCO) seront bloqués par contrats intelligents (20-33%/an sur 3-5 ans). Les 23,6% jetons de «Réalisations» ne seront distribués aux développeurs/contributeurs qu'au moment où les fonctionnalités seront disponibles sur le réseau. Les 9% de jetons alloués aux Améliorations seront utilisés pour développer de nouveaux cas d'utilisation mais ne pourront être vendu que lorsque que la valeur des UCO sera supérieure à <strong>100x la valeur initiale</strong> (soit 0,70€/UCO).",
+        "ru": "За исключением проданных жетонов. все отсальные жетоны Archethic (UCO) будут заблокированы умными контрактами (20-23 % в год в течение 3-5 лет).23,6 % жетонов \"Достижения\" будут распределяться среди разработчиков только тогда,когда все функции будут доступны в сети.9 % жетонов, выделенные на \"Улучшения\" будут использованы для разработки новых способов применений. Жетоны могут быть проданы только в том случае,если значение UCO в 100 раз больше его первоначальной стоимости (т.е 0,7 €)",
+        "es": "Con excepción de los tokens vendidos, todos los otros tokens de Archethic (UCO) serán bloqueados por contratos inteligentes (20-33% por año en 3-5 años). El 23.6% tokens de “Realizaciones” serán solamente distribuidos a los desarrolladores/colaboradores cuando las funcionalidades estén disponibles en la red. El 9% de los tokens asignados para las “mejoras“ se utilizaran para el desarrollo de nuevos casos de uso pero solo se podrán vender cuando el valor de los UCOs sea superior a 100x su valor inicial, es decir, 0,70 E por UCO."
     },
     "token_availability_title": {
         "fr": "Une disponibilité des UCO conditionnée par l'arrivée de nouveaux usages",
@@ -174,7 +176,7 @@
         "es": "En los primeros años, casi solo los UCOs puestos a la venta (venta privada y pública) estarán disponibles en las plataformas de intercambio - inicialmente maximizando la rentabilidad de los primeros inversores. Los UCOs asociados con el desarrollo de los usos “Realizaciones” serán distribuidos solamente después de su despliegue efectivo, garantizando así una distribución efectiva oferta monetaria. Por último, aproximadamente 10% de los UCOs para pagar los gastos de transacción serán destruidos automáticamente para asegurar un mecanismo de deflación programado que permita teóricamente un crecimiento perpetuo del valor del UCO."
     },
     "blockchain_title": {
-        "fr": "Une nouvelle génération <br />de blockchain est née",
+        "fr": "Archethic: Une nouvelle génération <br />de blockchain est née",
         "ru": "Блокчейн нового поколения",
         "es": "Una nueva generacion <br />de blockchain"
     },
@@ -190,7 +192,7 @@
     },
     "blockchain_earth_friendly_description": {
         "fr": "3,6 milliards de fois moins de consommation d'énergie, en utilisant le consensus ARCH basé sur l'élection heuristique des mineurs et un système de réplication adaptatif. Chaque transaction Uniris ne nécessite que 0,42w d'énergie (0,1g de sucre)",
-        "ru": "В 3,6 миллиарда раз меньшее потребление энергии за счет использования консенсуса ARCH, основанного на эвристическом выборе горняков и адаптивной системе репликации. Каждая транзакция Uniris требует всего 0,42w энергии (0,1g сахара).",   
+        "ru": "В 3,6 миллиарда раз меньшее потребление энергии за счет использования консенсуса ARCH, основанного на эвристическом выборе горняков и адаптивной системе репликации. Каждая транзакция Uniris требует всего 0,42w энергии (0,1g сахара).",
         "es": "3.6 billones de veces menos consumo de energía, utilizando el consenso ARCH (Atomic Rotating commitment heuristic) basado en la elección heurística de los mineros y un sistema de replicación adaptativa. Cada transacción UNIRIS requiere sólo 0,42w de energía (0,1g de azúcar)."
     },
     "blockchain_smart_contracts_title": {
@@ -224,7 +226,7 @@
         "es": "Sin impactar la validación global, la replicación polimórfica heurística proporciona un aumento lineal de la capacidad (en almacenamiento y en número de validaciones) permitiendo alcanzar el millón de validaciones de transacciones por segundo… no es magia, solo lea el libro amarillo."
     },
     "biometric_title": {
-        "fr": "Biométrie & Identité Autosouveraine",
+        "fr": "2024: Biométrie & Identité Autosouveraine",
         "ru": "Биометрия и децентрализованная идентификация",
         "es": "Biometria e Identitad descentralizada"
     },
@@ -255,7 +257,7 @@
     },
     "biometric_worldwide_title": {
         "fr": "Conçu pour la Population Mondiale",
-        "ru":"Для мирового населения",
+        "ru": "Для мирового населения",
         "es": "Para la poblacion mundial"
     },
     "biometric_worldwide_description": {
@@ -280,27 +282,28 @@
     },
     "media_subtitle": {
         "fr": "Retrouver nos derniers articles",
-        "ru":"Ознакомьтесь с нашими последними статьями",
+        "ru": "Ознакомьтесь с нашими последними статьями",
         "es": "Siga nuestras últimas publicaciones"
     },
     "media_vivatech_description": {
         "fr": "Participant dans un salon de la cybersecurité et les technologies de demain.",
-        "ru":"Участник выставки по кибербезопасности и технологиям будущего."
+        "ru": "Участник выставки по кибербезопасности и технологиям будущего."
     },
     "media_olympics_title": {
         "fr": "Certifié pour les Jeux Olympics de Paris 2024",
-        "ru":"Сертифицирован для участия в Олимпийских играх 2024 года в Париже"
+        "ru": "Сертифицирован для участия в Олимпийских играх 2024 года в Париже"
     },
     "media_olympics_description": {
         "fr": "Uniris a été récompensé par un label pour la gestion des accès sécurisé pour les Jeux Olympiques de Paris 2024.",
-        "ru":"Uniris был удостоен знака за безопасное управление доступом к Олимпийским играм в Париже в 2024 году."
+        "ru": "Uniris был удостоен знака за безопасное управление доступом к Олимпийским играм в Париже в 2024 году."
     },
     "media_whitepaper_title": {
         "fr": "Livre blanc d'Uniris",
-        "ru":"Белая бумага Uniris"   },
+        "ru": "Белая бумага Uniris"
+    },
     "media_whitepaper_description": {
         "fr": "Livre blanc publié sur Medium",
-        "ru":"Белая бумага опубликована в Medium"
+        "ru": "Белая бумага опубликована в Medium"
     },
     "media_more_news": {
         "fr": "Voir plus d'articles",
@@ -309,43 +312,43 @@
     },
     "media_last_videos": {
         "fr": "Retrouvez nos dernières vidéos",
-        "ru":"Наши последние видео"
+        "ru": "Наши последние видео"
     },
     "media_video_technology_title": {
         "fr": "Uniris - Technologie",
-        "ru":"Uniris - Технология"
+        "ru": "Uniris - Технология"
     },
     "media_video_technology_description": {
         "fr": "Nous avons tous le même rêve : simplifier notre quotidien. Dans un monde de plus en plus connecté, nous ne savons plus vraiment ce qu'il est fait de nos données personnelles ou bancaires. Et si maintenant on vous disait que nous avons la solution ?",
-        "ru":"У всех нас одна и та же мечта: упростить нашу повседневную жизнь. В мире, который становится все более цифровым, мы больше не знаем, что делать с нашими личными или банковскими данными. Что, если мы скажем тебе сейчас, что у нас есть решение?"
-
+        "ru": "У всех нас одна и та же мечта: упростить нашу повседневную жизнь. В мире, который становится все более цифровым, мы больше не знаем, что делать с нашими личными или банковскими данными. Что, если мы скажем тебе сейчас, что у нас есть решение?"
     },
     "media_video_blockchain_title": {
         "fr": "Uniris - Blockchain",
-        "ru":"Uniris - Блокчейн"
+        "ru": "Uniris - Блокчейн"
     },
     "media_video_blockchain_description": {
         "fr": "Comment pouvons-nous permettre de mettre en danger les informations personnelles sur le web ? Uniris a développé un écosystème blockchain à partir de zéro et se concentre sur la sécurité. Le nouveau réseau de confiance est né : le TrustNet.",
-        "ru":"Как мы можем допустить, чтобы личная информация в Интернете оказалась под угрозой? Uniris разработал экосистему блокчейна \"с нуля\" и сосредоточился на безопасности. Родилась новая сеть доверия: TrustNet."    },
+        "ru": "Как мы можем допустить, чтобы личная информация в Интернете оказалась под угрозой? Uniris разработал экосистему блокчейна \"с нуля\" и сосредоточился на безопасности. Родилась новая сеть доверия: TrustNet."
+    },
     "media_video_biometry_title": {
         "fr": "Uniris - Biométrie",
-        "ru":"Uniris - Биометрия"
+        "ru": "Uniris - Биометрия"
     },
     "media_video_biometry_description": {
         "fr": "Imaginez un avenir sans contraintes. Plus de mots de passe, plus besoin de cartes de crédit, ou de carte pour voter... Toute votre identité numérique dématérialisée dans votre doigt. Uniris est la seule technologie qui protège l'identité des êtres humains avec une capacité de stockage illimitée.",
-        "ru":"Представьте себе будущее без ограничений. Больше нет паролей, нет необходимости в кредитной карте или карте для голосования... Все ваши цифровые идентификационные данные дематериализованы в вашем пальце. Uniris - единственная технология, которая защищает идентичность человека с неограниченным объемом памяти."
+        "ru": "Представьте себе будущее без ограничений. Больше нет паролей, нет необходимости в кредитной карте или карте для голосования... Все ваши цифровые идентификационные данные дематериализованы в вашем пальце. Uniris - единственная технология, которая защищает идентичность человека с неограниченным объемом памяти."
     },
     "media_video_smartcontracts_title": {
         "fr": "Uniris - Contract intelligents",
-        "ru":"Uniris - Умные контракты"
+        "ru": "Uniris - Умные контракты"
     },
     "media_video_smartcontracts_description": {
         "fr": "Les contrats intelligents Uniris assurent la gouvernance de la communauté sur la chaîne. Ils sont autonomes, évolutifs et faciles à programmer. Plus besoin d'un intermédiaire de confiance traditionnel : confiance et transparence sont au coeur de la technologie !",
-        "ru":"Умные контракты Uniris обеспечивают управление общиной на канале. Они автономны, масштабируемы и легко программируются. Больше нет необходимости в традиционном доверенном посреднике: доверие и прозрачность лежат в основе технологии!"
+        "ru": "Умные контракты Uniris обеспечивают управление общиной на канале. Они автономны, масштабируемы и легко программируются. Больше нет необходимости в традиционном доверенном посреднике: доверие и прозрачность лежат в основе технологии!"
     },
     "media_video_p2p_title": {
         "fr": "Uniris - Réseau Pair à pair (P2P)",
-        "ru":"Uniris - Пиринговая сеть (P2P)"
+        "ru": "Uniris - Пиринговая сеть (P2P)"
     },
     "media_video_p2p_description": {
         "fr": "Le réseau P2P d'Uniris est l'exemple idéal d'une distribution parfaite des pairs ou des mineurs à travers le monde. Quelques soient les événements extérieures, le réseau peer to peer Uniris est capable de survivre pendant des décennies, même des siècles.",
@@ -580,11 +583,11 @@
     },
     "team_advisory_bernadette_subtitle": {
         "fr": "CNRS Polytechnique",
-        "ru":"Политехнический национальный центр научных исследований"
+        "ru": "Политехнический национальный центр научных исследований"
     },
     "team_advisory_bernadette_description": {
         "fr": "Chercheur senior au CNRS, dans le laboratoire d'informatique de l'École Polytechnique. Les recherches de Bernadette portent sur le calcul distribué (calculabilité et complexité), la modélisation formelle et la vérification d'algorithmes distribués, de systèmes multi-agents en réseau, d'algorithmes naturels et de systèmes d'influence.",
-        "ru":"Старший научный сотрудник CNRS в лаборатории информатики политехнической школы. Исследования Бернадетт сосредоточены на распределенных вычислениях (вычислимость и сложность), формальном моделировании и верификации распределенных алгоритмов, многоагентных сетевых системах, естественных алгоритмах и системах влияния.",
+        "ru": "Старший научный сотрудник CNRS в лаборатории информатики политехнической школы. Исследования Бернадетт сосредоточены на распределенных вычислениях (вычислимость и сложность), формальном моделировании и верификации распределенных алгоритмов, многоагентных сетевых системах, естественных алгоритмах и системах влияния.",
         "es": "Investigadora senior del CNRS, en el laboratorio de informática de la École Polytechnique, la investigación de Bernadette se centra en la informática distribuida (computabilidad y complejidad), la modelización formal y la verificación de algoritmos distribuidos, sistemas en red de agentes múltiples, algoritmos naturales y sistemas de influencia "
     },
     "team_advisory_peter_name": {
@@ -652,7 +655,7 @@
     "faq_no_intermidiary_title": {
         "fr": "Comment ca marche sans intermédiaire ?",
         "ru": "Как это работает без посредника?",
-        "es": "¿Cómo funciona sin un intermediario?" 
+        "es": "¿Cómo funciona sin un intermediario?"
     },
     "faq_no_intermidiary_content": {
         "fr": "<p>Par la preuve mathématique.</p><p>Si l'expéditeur envoie des fichiers sur un réseau P2P (pair à pair) avec authentification cryptographique, la crypto-monnaie est envoyée et les fichiers sont reçus par le destinataire.</p><p>La blockchain connecte l'expéditeur et le destinataire sur un réseau pair à pair avec cryptage cryptographique. La blockchain étant un grand livre partagé elle apporte ainsi une confiance sans faille, transparence et immuabilité. Elle élimine ainsi le besoin d'un intermédiaire traditionnel de confiance.</p>",
@@ -685,7 +688,7 @@
         "es": "¿Qué es ARCH consensus? y ¿Cómo ARCH consensus puede ayudarme?"
     },
     "faq_arch_content": {
-        "fr": "<p>Le Consensus ARCH ou \"Atomic Rotating Commitment Heuristic (ARCH)\" est une nouvelle génération de Consensus qui délivre un consensus ouvert sans permission pour tous</p><ul><li>l'engagement atomique est la forme de consensus \"absolu\" qui implique des réponses 100% concordantes pour l'acceptation ou le refus de la validation des transactions.</li><li>Heuristics est l'ensemble des algorithmes, logiciels et paramètres qui permettent de gérer le réseau entier, de manière décentralisée et coordonnée les nœuds chargés de valider et stocker la chaîne des transactions.</li><li>Le réseau étant entièrement distribué en rotation (pas de rôle central ou privilégié), les nœuds élus pour chaque opération changent constamment de sorte qu'aucun nœud ne peut prédire quels nœuds seront élus jusqu'à ce que la transaction arrive.</li></ul>",
+        "fr": "<p>Le Consensus ARCH ou \"Atomic Rotating Commitment Heuristic (ARCH)\" est une nouvelle génération de Consensus qui délivre un consensus ouvert sans permission pour tous</p><p>- L'engagement atomique est la forme de consensus \"absolu\" qui implique des réponses 100% concordantes pour l'acceptation ou le refus de la validation des transactions.</br>- Heuristics est l'ensemble des algorithmes, logiciels et paramètres qui permettent de gérer le réseau entier, de manière décentralisée et coordonnée les nœuds chargés de valider et stocker la chaîne des transactions.<br>- Le réseau étant entièrement distribué en rotation (pas de rôle central ou privilégié), les nœuds élus pour chaque opération changent constamment de sorte qu'aucun nœud ne peut prédire quels nœuds seront élus jusqu'à ce que la transaction arrive.</p>",
         "ru": "<p>Консенсус АRCH или \"Эвристическое Атомное Вращающееся Обязательство (ARCH)\" - это новое поколение Консенсуса, который обеспечивает открытый и не допускающий никаких ограничений консенсус для всех.</p><ul><li>Атомное обязательство- это форма \"абсолютного\" консенсуса, который подразумевает 100%-ные согласованные ответы на принятие или отказ от валидации сделки.</li><li>Эвристика - это набор алгоритмов, программного обеспечения и параметров, которые управляют всей сетью, позволяя сети децентрализованно и согласованно выбирать узлы, отвечающие за проверку и хранение цепочек транзакций.</li><li>Вращая полностью распределенную сеть (без центральной или привилегированной роли), узлы, выбранные для каждой операции, постоянно меняются таким образом, что ни один узел не может предсказать, какие узлы будут выбраны до прихода транзакции.</li></ul>",
         "es": "<p>ARCH consensus o “Atomic Rotating Commitment Heuristic (ARCH)” es una nueva generación de Consensus que ofrece un consenso sin permisos para todos.</p><ul><li>El compromiso Atómico es la forma de consenso “absoluto” que implica respuestas 100% concordantes para la aceptación o rechazo de la validación de la transacción</li><li>Heuristics es el conjunto de algoritmos, softwares y parámetros que gestionan toda la red, permitiéndole a la red elegir de manera descentralizada y coordinada los nodos encargados de validar y almacenar las cadenas de transacciones.</li><li>Al rotar la red estando completamente distribuida (sin función central o privilegiada), los nodos elegidos para cada operación están cambiando constantemente para que ningún nodo pueda predecir qué nodos serán elegidos hasta que llegue la transacción.</li></ul>"
     },
@@ -695,17 +698,17 @@
         "es": "¿Es Uniris un proyecto seguro?"
     },
     "faq_uniris_safe_content": {
-        "fr": "<p>Oui</p><p>Le projet est le plus sécurisé de tout l'écosystème blockchain.</p><p>Dans un monde où toute notre confiance numérique se limite aux grandes institutions comme les banques, Google ou Amazon, il est difficile de s'y retrouver.</p><p>Aujourd'hui, la technologie de la blockchain permet d'atteindre un niveau de sécurité plus élevé.</p><p>Dans ce cas, Uniris dispose du plus haut niveau de sécurité de tout l'écosystème Blockchain et vous permet de reprendre le contrôle de vos données et de votre identité numérique.</p><p>In this case UNIRIS has the highest level of security in the entire Blockchain ecosystem and gives you back control over your data and digital identity.</p><p>Pas besoin d'intermédiaires.</p><p><strong>Uniris est également officiellement labellisé partenaire par le Conseil National de l'Industrie, dont l'objectif est d'identifier les solutions susceptibles de contribuer à la sécurité des grands événements tels que les Jeux Olympiques Paris 2024.</strong></p>",
+        "fr": "<p>Oui</p><p>Le projet est le plus sécurisé de tout l'écosystème blockchain.</p><p>Dans un monde où toute notre confiance numérique se limite aux grandes institutions comme les banques, Google ou Amazon, il est difficile de s'y retrouver.</p><p>Aujourd'hui, la technologie de la blockchain permet d'atteindre un niveau de sécurité plus élevé.</p><p>Dans ce cas, Uniris dispose du plus haut niveau de sécurité de tout l'écosystème Blockchain et vous permet de reprendre le contrôle de vos données et de votre identité numérique.</p><p>Pas besoin d'intermédiaires.</p><p><strong>Uniris est également officiellement labellisé partenaire par le Conseil National de l'Industrie, dont l'objectif est d'identifier les solutions susceptibles de contribuer à la sécurité des grands événements tels que les Jeux Olympiques Paris 2024.</strong></p>",
         "ru": "<p>Да</p><p>Проект обладает высочайшей степенью безопасности во всей экосистеме блокчейн.</p><p>В мире, где все наше цифровое доверие ограничено крупными учреждениями, такими как банки, Google или Amazon, трудно найти способ обойти его.</p><p>Сегодня технология блокчейн позволяет достичь более высокого уровня безопасности.</p><p>В этом случае Uniris имеет наивысший уровень безопасности во всей экосистеме блокчейн и возвращает вам контроль над вашими данными и цифровой идентичностью.</p><p>Нет необходимости в посредниках.</p><p><strong>Кроме того, Uniris официально сертифицирована Национальным советом промышленности Франции, целью которого является поиск решений, способных внести вклад в обеспечение безопасности таких крупных мероприятий, как Олимпийские игры в Париже 2024 года.</strong>",
         "es": "<p>Si.</p><p>El proyecto cuenta con la mayor seguridad en todo el ecosistema de la blockchain.</p><p>En un mundo donde toda nuestra confianza digital se limita a grandes instituciones como la actividad bancaria, Google o Amazon, es difícil orientarse.</p><p>Hoy en día, la tecnología blockchain permite alcanzar un mayor nivel de seguridad.</p><p>En este caso UNIRIS tiene el más alto nivel de seguridad en todo el ecosistema Blockchain y le devuelve el control sobre sus datos e identidad digital.</p><p>No hay necesidad de intermediarios.</p><p><strong style=\"font-weight: 800;\">Uniris también está oficialmente certificada por el Consejo Nacional de Industria de Francia, que tiene como objetivo identificar soluciones que puedan contribuir a la seguridad de grandes eventos como los Juegos Olímpicos de París 2024.</strong></p>"
     },
     "faq_how_buy_title": {
-        "fr": "Comment puis-je acheter, stocker, vendre, échanger des jetons Uniris ? Et où ?",
-        "ru": "Как я могу купить, хранить, продавать, обменивать токены  Uniris? И где?",
-        "es": "¿Cómo puedo comprar, almacenar, vender, intercambiar Uniris Coin? ¿Y dónde?"
+        "fr": "Comment puis-je acheter, stocker, vendre, échanger des jetons Archethic ? Et où ?",
+        "ru": "Как я могу купить, хранить, продавать, обменивать токены  Archethic? И где?",
+        "es": "¿Cómo puedo comprar, almacenar, vender, intercambiar Archethic Coin? ¿Y dónde?"
     },
     "faq_how_buy_content_purchase": {
-        "fr": "Achat: Nous sommes actuellement listé sur: ",
+        "fr": "<a href='https://archethic.net/#scroll-to-uco-section' target='_blank'>Retrouvez toutes les informations sur le site Archethic</a>",
         "ru": "Покупка: В настоящее время мы числимся в:",
         "es": "Compra: Actualmente estamos listados en: "
     },
@@ -734,7 +737,7 @@
         "es": "El grupo cripto oficial de telegram"
     },
     "contact_form_title": {
-        "fr": "Contactez-nous",
+        "fr": "Contactez Uniris",
         "ru": "Свяжитесь с нами",
         "es": "Contacta Uniris"
     },
@@ -789,5 +792,4 @@
         "ru": "Подписаться",
         "es": "Subscription"
     }
-
 }
