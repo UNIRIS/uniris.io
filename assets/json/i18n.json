@@ -201,7 +201,7 @@
         "es": "Los contratos inteligentes mas avanzados"
     },
     "blockchain_smart_contracts_description": {
-        "fr": "En plus de gérer la blockchain elle-même, les contrats intelligents Archethic assurent la gouvernance de la communauté sur la chaîne. Les smart-contracts Uniris sont autonomes (pas besoin de services externes pour les déclencher), évolutifs (on peut les mettre à jour), interprétés directement par les mineurs et faciles à programmer, aidant au développement d'applications fiables et évolutives.",
+        "fr": "En plus de gérer la blockchain elle-même, les contrats intelligents Archethic assurent la gouvernance de la communauté sur la chaîne. Les smart-contracts Archethic sont autonomes (pas besoin de services externes pour les déclencher), évolutifs (on peut les mettre à jour), interprétés directement par les mineurs et faciles à programmer, aidant au développement d'applications fiables et évolutives.",
         "ru": "Помимо управления самой цепочкой блоков, смарт-контракты Uniris обеспечивают управление сетью сообществ. Смарт-контракты UNIRIS являются нативно запускаемыми, обновляемыми, формальными и простыми в программировании, помогая в разработке надежных приложений.",
         "es": "Además de gestionar la cadena de bloques, los smart-contracts de UNIRIS garantizan la gobernanza de la comunidad On-Chain. los smart-contracts de UNIRIS son autónomos (sin necesidad de servicios externos para activarlos), expandibles (se pueden actualizar), formales, interpretados directamente por los mineros y fáciles de programar, ayudando al desarrollo de aplicaciones fiables."
     },
